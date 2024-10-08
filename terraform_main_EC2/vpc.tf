@@ -73,6 +73,6 @@ resource "aws_security_group" "security-group" {
   }
 
   tags = {
-    Name = "java-sg"
+    Name = "durga-sg"
   }
 }
